@@ -14,6 +14,7 @@ import {
   scoreSound,
   ambientSound,
   adventureMusic,
+  villageMusic,
   playDeferredSounds
 } from "./audio.js";
 //Defaults for game objects
