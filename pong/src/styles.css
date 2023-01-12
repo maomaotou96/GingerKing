@@ -74,8 +74,10 @@ body {
 }
 
 .ball {
-  width: 20px;
-  height: 20px;
+  background-image: url(https://pic.616pic.com/ys_bnew_img/00/60/66/HdGKMz47wo.jpg);
+  background-size: contain;
+  width: 30px;
+  height: 30px;
   background-color: red;
   border-radius: 10px;
   position: absolute;
